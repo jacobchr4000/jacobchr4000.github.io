@@ -3,6 +3,10 @@ body {
   font-family: arial;
 }
 
+iframe {
+  border: none;
+}
+
 p {
   background: #666;
   color: white;
