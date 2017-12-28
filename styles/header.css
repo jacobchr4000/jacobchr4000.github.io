@@ -43,11 +43,19 @@ header{
   /*border:1px solid #EEE;*/
 }
 
+.headerNavi {
+  grid-column: 1;
+  grid-row: 7;
+  justify-items: center;
+  align: center;
+}
 
 nav ul {
+  grid-column: 1;
   margin: 0;
   display: inline;
   justify-items: center;
+  align: center;
 }
 
 nav ul li {
